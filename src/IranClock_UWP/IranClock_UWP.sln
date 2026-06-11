@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IranClock_UWP", "IranClock_UWP\IranClock_UWP.csproj", "{318C3664-93E9-43F4-AB94-1602F4E76DFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Debug|ARM.ActiveCfg = Debug|ARM
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Debug|ARM.Build.0 = Debug|ARM
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Debug|ARM.Deploy.0 = Debug|ARM
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Debug|ARM64.Build.0 = Debug|ARM64
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Debug|x64.ActiveCfg = Debug|x64
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Debug|x64.Build.0 = Debug|x64
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Debug|x64.Deploy.0 = Debug|x64
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Debug|x86.ActiveCfg = Debug|x86
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Debug|x86.Build.0 = Debug|x86
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Debug|x86.Deploy.0 = Debug|x86
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Release|ARM.ActiveCfg = Release|ARM
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Release|ARM.Build.0 = Release|ARM
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Release|ARM.Deploy.0 = Release|ARM
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Release|ARM64.ActiveCfg = Release|ARM64
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Release|ARM64.Build.0 = Release|ARM64
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Release|ARM64.Deploy.0 = Release|ARM64
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Release|x64.ActiveCfg = Release|x64
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Release|x64.Build.0 = Release|x64
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Release|x64.Deploy.0 = Release|x64
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Release|x86.ActiveCfg = Release|x86
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Release|x86.Build.0 = Release|x86
+		{318C3664-93E9-43F4-AB94-1602F4E76DFC}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B7804CB-CEF0-4B69-ABE1-05454EC45AB5}
+	EndGlobalSection
+EndGlobal
